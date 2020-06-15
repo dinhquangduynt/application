@@ -1,0 +1,7 @@
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\bin\Debug\ApplicationTextOff.exe.config
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\obj\Debug\ApplicationTextOff.Properties.Resources.resources
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\obj\Debug\ApplicationTextOff.csproj.GenerateResource.Cache
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\bin\Debug\ApplicationTextOff.exe
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\bin\Debug\ApplicationTextOff.pdb
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\obj\Debug\ApplicationTextOff.exe
+D:\workspace_\Project-CNPM\C#\ApplicationTextOff\ApplicationTextOff\obj\Debug\ApplicationTextOff.pdb

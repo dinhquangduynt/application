@@ -1,0 +1,7 @@
+bk:bách khoa
+cm:cách mạng
+cmt:comment
+cnxh:Chủ Nghĩa Xã Hội
+dhbk:Đại Học Bách Khoa
+dltd:Đôc Lập Tự Do
+vn:Việt Nam
